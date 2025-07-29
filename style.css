@@ -29,7 +29,7 @@
 body {
   background: var(--bg-url) no-repeat top center/cover;
   transition: all 1s ease-in-out;
-  height: 100vh;
+  height: 100%;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -59,7 +59,7 @@ li iframe {
 }
 
 #profile img {
-  width: 400px;
+  width: 80%;
   border-radius: 35px;
 }
 
